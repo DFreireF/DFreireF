@@ -5,7 +5,6 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,fortran,emacs,vscode,docker,git,linux" />
   </a>
 </p>
-
 <p align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=DFreireF&theme=tokyonight&show_icons=true">
 </p>
