@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">:eyes: Hi there 👋</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
