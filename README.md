@@ -1,5 +1,15 @@
 ### Hi there 👋
+<h2 align="center">Skills</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp, fortran, emacs,vscode, docker, git, linux" />
+  </a>
+</p>
+
+<p align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=DFreireF&theme=tokyonight&show_icons=true">
+</p>
 <!--
 **DFreireF/DFreireF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
