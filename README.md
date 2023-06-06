@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=DFreireF&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=xaratustrah&theme=tokyonight&show_icons=true">
 </p>
 <!--
 **DFreireF/DFreireF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
