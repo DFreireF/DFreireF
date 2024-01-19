@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,fortran,emacs,vscode,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=py,linux,git,docker,cpp,fortran,c,emacs,vscode,latex,bash" />
   </a>
 </p>
 
