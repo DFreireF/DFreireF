@@ -10,7 +10,7 @@
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DFreireF&theme=tokyonight&show_icons=true">
 </p>
 
-I am a PhD student on the topic "nuclear isomer studies with isochronous storage rings" at GSI. Currently, my focus is on the data analysis of E143. Here, you can find all the code I am developing for the study of the induced Schottky signals of revolving ions trapped in a storage ring.
+I am a nuclear physics PhD student on the topic "nuclear isomer studies with isochronous storage rings" at GSI. Currently, my focus is on the data analysis of E143. Here, you can find all the code I am developing for the study of the induced Schottky signals of revolving ions trapped in a storage ring.
 
 My codes for the analysis of Schottky signals can also be used for the "simplified" case of time-of-flight signals by having a harmonic = 1 or no harmonics, making them suitable for any kind of ion identification at any storage ring.
 
